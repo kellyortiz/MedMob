@@ -1,0 +1,168 @@
+﻿<!-- importa Entidade Paciente -->
+@model Projeto.Entidades.Paciente
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="shortcut icon" href="favicon.ico">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="~/cadastroStyle.css">
+    <title> MedMob </title>
+    <script src="https://code.jquery.com/jquery-1.10.0.min.js"></script>
+    <script src="https://rawgit.com/RobinHerbots/Inputmask/3.x/dist/jquery.inputmask.bundle.js"></script>
+</head>
+<body>
+    <div id="header">
+        <div class="navbar">
+            <!-- chama a action Index do controller ao clicar em Voltar -->
+            <a asp-action="Index">Voltar</a>
+            <img src="~/logo_simp.png" alt="logo" id="logo">
+        </div>
+    </div>
+    <div class="container">
+        <h1>Cadastrar Ficha Médica</h1>
+        <p>Por favor preencha os campos para realizar cadastro.</p>
+        <hr>
+
+        <!-- chama a action Create do controller-->
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label"> RG:</label>
+                <br />
+                <input id="teste" asp-for="Rg" class="form-control" />
+                <span asp-validation-for="Rg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <labeL class="control-label">Nome completo:</labeL>
+                <br />
+                <input asp-for="NomeCompleto" class="form-control" />
+                <span asp-validation-for="NomeCompleto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Empresa do convênio:</label>
+                <br />
+                <input asp-for="NomeConvenio" class="form-control" />
+                <span asp-validation-for="NomeConvenio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Número da carteira do convênio:</label>
+                <br />
+                <input asp-for="NumeroConvenio" class="form-control" />
+                <span asp-validation-for="NumeroConvenio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Doença crônica:</label>
+                <br />
+                <input asp-for="DoencaCronica" class="form-control" />
+                <span asp-validation-for="DoencaCronica" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label"> Tipo sanguíneo:</label>
+                <br />
+                <select asp-for="TipoSanguineo" class="form-control">
+                    <option> A+ </option>
+                    <option> A- </option>
+                    <option> B+ </option>
+                    <option> B- </option>
+                    <option> AB+ </option>
+                    <option> AB- </option>
+                    <option> O+ </option>
+                    <option> O- </option>
+                    <option> A- </option>
+                </select>
+        
+                <span asp-validation-for="TipoSanguineo" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="DataNascimento" class="control-label">Data de nascimento:</label>
+                <br />
+                <input asp-for="DataNascimento" class="form-control" />
+                <span asp-validation-for="DataNascimento" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="Endereco" class="control-label">Nome da rua:</label>
+                <br />
+                <input asp-for="Endereco" class="form-control" />
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Numero" class="control-label">Número:</label>
+                <br />
+                <input asp-for="Numero" class="form-control" />
+                <span asp-validation-for="Numero" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="Cidade" class="control-label">Cidade:</label>
+                <br />
+                <input asp-for="Cidade" class="form-control" />
+                <span asp-validation-for="Cidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UF" class="control-label">UF:</label>
+                <br />
+                <input asp-for="UF" class="form-control" />
+                <span asp-validation-for="UF" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pais" class="control-label">País:</label>
+                <br />
+                <input asp-for="Pais" class="form-control" />
+                <span asp-validation-for="Pais" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefone" class="control-label">Número de telefone:</label>
+                <br />
+                <input asp-for="Telefone" class="form-control" />
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomePai" class="control-label">Nome do pai:</label>
+                <br />
+                <input asp-for="NomePai" class="form-control" />
+                <span asp-validation-for="NomePai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomeMae" class="control-label">Nome da mãe:</label>
+                <br />
+                <input asp-for="NomeMae" class="form-control" />
+                <span asp-validation-for="NomeMae" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Cadastrar" class="botao_padrao" />
+            </div>
+            <br />
+        </form>
+    </div>
+
+    <script>
+    function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        // Fecha o dropdown se o usuário clicar fora dele
+        window.onclick = function (e) {
+            if (!e.target.matches('.dropbtn')) {
+                var myDropdown = document.getElementById("myDropdown");
+                if (myDropdown.classList.contains('show')) {
+                    myDropdown.classList.remove('show');
+                }
+            }
+        }
+        // Adiciona máscara ao campo RG
+        $(document).ready(function () {
+            $("input[id*='teste']").inputmask({
+                mask: ['99.999.999-9'],
+                keepStatic: true
+            });
+        });
+    </script>
+</body>
+</html>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

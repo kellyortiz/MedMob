@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <link rel="shortcut icon" href="favicon.ico" >
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="cadastroStyle.css">
+        <title> MedMob </title>
+    </head>
+    <body style="background-color:white">
+        <div id="header">
+            <div class="navbar">
+              <a href="index.html">Voltar</a>
+              <img src="logo_simp.png" alt="logo" id="logo">
+            </div>
+        </div>
+        <div class="container">
+            <h1>Sobre</h1>
+        </div>
+        <script>
+            function myFunction() {
+              document.getElementById("myDropdown").classList.toggle("show");
+            }
+
+            // Close the dropdown if the user clicks outside of it
+            window.onclick = function(e) {
+              if (!e.target.matches('.dropbtn')) {
+              var myDropdown = document.getElementById("myDropdown");
+                if (myDropdown.classList.contains('show')) {
+                  myDropdown.classList.remove('show');
+                }
+              }
+            }
+        </script>
+</body>
+</html>

@@ -1,0 +1,220 @@
+C:\Users\lotus\source\repos\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.deps.json
+C:\Users\lotus\source\repos\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.json
+C:\Users\lotus\source\repos\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.dev.json
+C:\Users\lotus\source\repos\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\lotus\source\repos\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\lotus\source\repos\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.dll
+C:\Users\lotus\source\repos\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.csprojAssemblyReference.cache
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cache
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfoInputs.cache
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfo.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.input.cache
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.output.cache
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorCoreGenerate.cache
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\lotus\source\repos\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CopyComplete
+C:\Users\brosal\Desktop\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.deps.json
+C:\Users\brosal\Desktop\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.json
+C:\Users\brosal\Desktop\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.dev.json
+C:\Users\brosal\Desktop\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\brosal\Desktop\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\brosal\Desktop\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.dll
+C:\Users\brosal\Desktop\Projeto\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.csprojAssemblyReference.cache
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cache
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfoInputs.cache
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfo.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.input.cache
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.output.cache
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorCoreGenerate.cache
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\brosal\Desktop\Projeto\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CopyComplete
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csprojAssemblyReference.cache
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cache
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfoInputs.cache
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfo.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.deps.json
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.json
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.dev.json
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.dll
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.input.cache
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.output.cache
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorCoreGenerate.cache
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\lotus\Downloads\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CopyComplete
+C:\Users\brosal\Documents\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.deps.json
+C:\Users\brosal\Documents\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.json
+C:\Users\brosal\Documents\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.dev.json
+C:\Users\brosal\Documents\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\brosal\Documents\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\brosal\Documents\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.dll
+C:\Users\brosal\Documents\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csprojAssemblyReference.cache
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cache
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfoInputs.cache
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfo.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.input.cache
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.output.cache
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorCoreGenerate.cache
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\brosal\Documents\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.deps.json
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.dll
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.input.cache
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.output.cache
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorCoreGenerate.cache
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Detail.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Alergia\Delete.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Alergia\Details.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Alergia\Index.g.cshtml.cs
+C:\Users\ADMIN\Desktop\Projeto_V2\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.deps.json
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.json
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.dev.json
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.dll
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csprojAssemblyReference.cache
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cache
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfoInputs.cache
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfo.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.input.cache
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.output.cache
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorCoreGenerate.cache
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Detail.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\brosal\Desktop\Projeto_V2\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\bin\Debug\netcoreapp2.2\Projeto.deps.json
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.json
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\bin\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\bin\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.dll
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\bin\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.input.cache
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.TagHelpers.output.cache
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorCoreGenerate.cache
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Detail.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.Views.pdb
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.dll
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.pdb
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Barbara -Projeto\Projeto_V7\Projeto\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs

@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+}
+
+<!DOCTYPE html>
+<hmtl>
+    <head>
+        <link rel="stylesheet" type="text/css" href="~/cadastroStyle.css">
+        <meta charset="utf-8">
+        <title>MedMob</title>
+
+    </head>
+    <body>
+        <div id="header">
+            <div class="navbar">
+                <!-- chama a action Index do controller ao clicar em Voltar -->
+                <a asp-action="Index">Voltar</a>
+                <img src="~/logo_simp.png" alt="logo" id="logo">
+            </div>
+        </div>
+
+        <h1 class="top">Sobre</h1>
+
+        <div>
+            <p class="about">
+                Pensando na agilidade e praticidade para pacientes e funcionários da área da saúde, o MedMob, um site para cadastros de fichas
+                médicas foi criado.
+            </p>
+            <p class="about">
+                Aqui você poderá realizar o cadastro de seus principais dados pessoais e médicos para dar ínicio ao atendimento em um hospital,
+                podendo ser acessado por eles, apenas informando seu RG.
+            </p>
+            <p class="about">
+                Optamos por um site sem senha, para que fichas de pacientes que chegam as dependências hospitalares desacordados e sem
+                acompanhantes, porém portando seus documentos, possa ser acessada por funcionários sem burocracia e assim, realizando um atendimento
+                rápido e com maior cuidado, já que, apresenta-se também uma lista de medicações que causam reações alérgicas ao paciente.
+            </p>
+            <p class="about"> Por se tratar de um site com acesso sem a necessidade de senha, INFORMAMOS QUE:<p />
+            <p class="about" id="at">
+                Uma vez que o cadastro é feito, só poderá ser alterado ou removido
+                sendo solicitado através do email: medmob@hotmail.com com cópia do documento original anexa.
+            </p>
+            <img src="~/hospital_main.jpg" alt="hospital" style="width:70%; margin-left:15%"/>
+        </div>
+    </body>
+</hmtl>

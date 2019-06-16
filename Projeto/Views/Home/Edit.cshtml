@@ -1,0 +1,48 @@
+﻿@model Projeto.Entidades.Alergia
+
+@{
+    ViewData["Title"] = "Create";
+}
+    <head>
+        <title> MedMob </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="~/cadastroStyle.css">
+    </head>
+    <body>
+        <div id="header">
+            <div class="navbar">
+                <!-- chama a action Index do controller ao clicar em Voltar -->
+                <a asp-action="Index">Voltar</a>
+                <img src="~/logo_simp.png" alt="logo" id="logo">
+            </div>
+        </div>
+        <h1 class="top">Inserir alergia</h1>
+
+        <hr />
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label> Paciente </label>
+                        <br />
+                        <!-- PacienteId aparece em modo leitura -->
+                        <select disabled asp-for="PacienteId" class="form-control" asp-items="ViewBag.PacienteId"></select>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="NomeMedicamento" class="control-label">Nome do medicamento:</label>
+                        <br />
+                        <input asp-for="NomeMedicamento" class="form-control" />
+                        <span asp-validation-for="NomeMedicamento" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Inserir" class="botao_padrao" />
+                    </div>
+                </form>
+            </div>
+        </div>
+        </body>
+
+        @section Scripts {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }

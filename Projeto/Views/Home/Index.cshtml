@@ -1,0 +1,67 @@
+﻿@model Projeto.Models.HomeViewModel
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="shortcut icon" href="~/favicon.ico">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="~/style.css">
+    <title> MedMob </title>
+    <script src="https://code.jquery.com/jquery-1.10.0.min.js"></script>
+    <script src="https://rawgit.com/RobinHerbots/Inputmask/3.x/dist/jquery.inputmask.bundle.js"></script>
+</head>
+<body>
+    <div id="header">
+        <div class="navbar">
+            <img src="logo.png" alt="logo" id="logo">
+            <div class="dropdown">
+                <button class="dropbtn" onclick="myFunction()">
+                    Não encontrou seu RG? <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content" id="myDropdown">
+                    <!-- chama a action Create do controller ao clicar em Cadastrar -->
+                    <a asp-controller="Home" asp-action="Create">Cadastrar</a>
+                </div>
+            </div>
+            <!-- chama a action Index do controller ao clicar em Início -->
+            <a asp-controller="Home" asp-action="Index">Início</a>
+            <!-- chama a action About do controller ao clicar em Sobre -->
+            <a asp-controller="Home" asp-action="About">Sobre</a>
+        </div>
+        <div id="header-inside">
+            <h1>Encontre agora a ficha médica que procura</h1>
+            <p>A maneira mais rápida de atender aos pacientes</p>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <!-- chama a action Detail do controller ao clicar na lupa -->
+            <form class="example" method="post" asp-controller="Home" asp-action="Detail">
+                <input type="text" placeholder="RG" id="teste" asp-for="Rg">
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+            <span style="color:white">@ViewBag.Texto</span>
+        </div>
+    </div>
+    <script>
+        function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        // Fecha o dropdown se o usuário clicar fora dele
+        window.onclick = function (e) {
+            if (!e.target.matches('.dropbtn')) {
+                var myDropdown = document.getElementById("myDropdown");
+                if (myDropdown.classList.contains('show')) {
+                    myDropdown.classList.remove('show');
+                }
+            }
+        }
+
+    // adiciona mascara ao campo Rg
+        $(document).ready(function () {
+            $("input[id*='teste']").inputmask({
+                mask: ['99.999.999-9'],
+                keepStatic: true
+            });
+        });
+        
+    </script>
+</body>
+</html>

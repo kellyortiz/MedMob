@@ -1,0 +1,202 @@
+﻿@model Projeto.Models.FichaMedicaViewModel
+
+@{
+    ViewData["Title"] = "Detail";
+}
+    <head>
+        <link rel="stylesheet" type="text/css" href="~/cadastroStyle.css">
+        <meta charset="utf-8">
+        <title>MedMob</title>
+
+    </head>
+    <body>
+        <div id="header">
+            <div class="navbar">
+                <!-- chama a action Index do controller ao clicar em Voltar -->
+                <a asp-action="Index">Voltar</a>
+                <img src="~/logo_simp.png" alt="logo" id="logo">
+            </div>
+        </div>
+
+        <h1 class="top">Ficha Médica</h1>
+
+        <div>
+            <hr />
+            <div class="row">
+                <div>
+                    <label class="hidden">
+                        @Html.DisplayNameFor(model => model.Id)
+                    </label>
+                    <span class="hidden">
+                        @Html.DisplayFor(model => model.Id)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.Rg)
+                    </label>
+                    <span class="datatable">
+                        @Html.DisplayFor(model => model.Rg)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.NomeCompleto)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.NomeCompleto)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.NomeConvenio)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.NomeConvenio)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.NumeroConvenio)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.NumeroConvenio)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.DoencaCronica)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.DoencaCronica)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.TipoSanguineo)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.TipoSanguineo)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.DataNascimento)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.DataNascimento)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.Endereco)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.Endereco)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.Numero)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.Numero)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.Cidade)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.Cidade)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.UF)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.UF)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.Pais)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.Pais)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.Telefone)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.Telefone)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.NomePai)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.NomePai)
+                    </span>
+                </div>
+                <br />
+                <div>
+                    <label class="detail">
+                        @Html.DisplayNameFor(model => model.NomeMae)
+                    </label>
+                    <span>
+                        @Html.DisplayFor(model => model.NomeMae)
+                    </span>
+                </div>
+            </div>
+            <br />
+            <hr />
+            <!-- caso o paciente possua alguma alergia, cria-se uma tabela onde são listadas cada uma delas -->
+            @if (Model.Alergias.Count > 0)
+            {
+                <table>
+                    <thead>
+                        <tr>
+                            <td class="detail">
+                                Alergia aos medicamentos:
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Alergias)
+                        {
+                            <tr>
+                                <td>@item.NomeMedicamento</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+        <br />
+        <div>
+            <!-- chama action Edit ao clicar em Adicionar Alergia -->
+            @Html.ActionLink("Adicionar Alergia", "Edit", new { id = Model.Id }, new {@class = "botao_padrao"})
+        </div>
+        <br />
+        <br />
+        <br />
+    </body>
