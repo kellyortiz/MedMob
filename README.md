@@ -5,3 +5,10 @@ MedMob, é um site que visa ajudar o paciente, médico, enfermeiro e também os 
   * Visual Studio
   * SQL developer
   * Net Core 2.2
+  
+  ## Grupo
+  * Alessandra Yukie
+  * Bárbara Trugillo
+  * Kelly Ortiz
+  * Lucas Zanella
+  * Stefano Dottori
